@@ -1,0 +1,12 @@
+id,name,college,joinDate,mail,domain,hired
+1,Ahmed,Cietclg,10/3/16,paddu@gmail.com,developer,yes
+2,Sara,Cietclg,11/3/16,abc@gmail.com,WebDeveloper,yes
+3,Ali,Gietclg,11/3/16,deb@gmail.com,Testing,no
+4,Paddu,Gietclg,03/10/16,paddu.cdm@gmail.com,Java Developer,yes
+5,Abc,Srmclg,03/10/2016,abc@gmail.com,Java Developer,yes
+6,Def,Srmclg,03/10/2016,def@gmail.com,Android Develepor,no
+7,Ram,Veltech,05/10/16,ram@gmail.com,Java Developer,no
+9,Sangee,Veltech,03/10/16,sangee@gmail.com,Java Developer,yes
+10,Bbb,Gietclg,09/10/16,bbb@gmail.com,Java Developer,no
+11,ccc,Cietclg,11/3/16,abc@gmail.com,WebDeveloper,yes
+12,ddd,Cietclg,11/3/16,abcd@gmail.com,WebDeveloper,no
